@@ -1,0 +1,33 @@
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.AssemblyReference.cache
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.SuggestedBindingRedirects.cache
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.Form1.resources
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+G:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.AssemblyReference.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.SuggestedBindingRedirects.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.Form1.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\bin\Debug\Gomoku.exe.config
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\bin\Debug\Gomoku.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\bin\Debug\Gomoku.pdb
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\obj\Debug\Gomoku.csproj.AssemblyReference.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\obj\Debug\Gomoku.csproj.SuggestedBindingRedirects.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\obj\Debug\Gomoku.Form1.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\obj\Debug\Gomoku.exe
+H:\我的雲端硬碟\Computer Science (2021-)\iSpan\作品集\五子棋\Gomoku _02\Gomoku\obj\Debug\Gomoku.pdb
