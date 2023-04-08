@@ -1,2 +1,8 @@
-# Gomoku
-My C# Beginner Practice
+#五子棋遊戲 G
+這個專案是參照網路教學來學習如何使用Windows Forms來製作一個簡單的五子棋遊戲，主要想透過實際的專案應用來鞏固課堂所學的C#程式語言。
+在這個專案中:
+1. 了解類別和繼承的觀念
+2. 熟悉Windows Forms的PictureBox物件
+3. 掌握Windows Forms的視窗事件(Events)
+4. 瞭解程式碼重構的概念
+5. 學習如何設計一個遊戲的邏輯和界面，及處理遊戲的勝負條件
